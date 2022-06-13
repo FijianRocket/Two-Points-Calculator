@@ -9,7 +9,7 @@ def twoPointsCalc(x1,y1,x2,y2):
 
     print("Point-Slope Form: " + "y" + "-" + str(y2) + " = " + str(m) + "(x-" + str(x2) + ")")
     print("Slope-Intercept Form: " + "y = " + str(m) + "x" + "+" + str(b))
-    print("Geometric Form: " + str(y1) + "(" + str(r) + ")^(x-" + str(x1)+")")
+    print("Geometric Form: " + str(y1) + "(" + str(r) + ")^{\left(x-" + str(x1) + r"\right)}")
 
     print("")
 
